@@ -49,7 +49,7 @@ def send_attchment(file_new):
 
 # 如果想要用例先执行，那么改文件名/类名/方法名字/“a 到 z /A Z/0 9”
 # AA_TEST.PY / ZZ.TEST.PY
-# 套件的话就直接写就好了
+# 套件的话就直接写就好了1
 
 if __name__ == '__main__':
     # unittest.main()
